@@ -681,8 +681,8 @@ a.download-button span {
 }
 
 footer {
-  margin-bottom: 180px;
-  padding-bottom: 180px;
+  margin-bottom: 60px;
+  padding-bottom: 60px;
 }
 
 footer .owner {
@@ -704,7 +704,7 @@ footer .owner .avatar {
   background-color: #666;
   display: block;
   margin: -19px 10px 0 0;
-  width: 180px;
+  width: 60px;
   float: left;
 }
 
