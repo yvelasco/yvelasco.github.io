@@ -104,7 +104,7 @@ ol li
 
 #banner_index, #banner_help, #banner_calendar, #banner_assignments, #banner_resources
 {
-  background: transparent url(../images/welcome.jpeg) no-repeat center;
+  background: transparent url(../images/welcome.jpg) no-repeat center;
   background-size: cover;
   width: 860px;
   height: 180px;
