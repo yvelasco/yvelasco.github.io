@@ -104,7 +104,7 @@ ol li
 
 #banner_index, #banner_help, #banner_calendar, #banner_assignments, #banner_resources
 {
-  background: transparent url(../images/index.png) no-repeat center;
+  background: transparent url(../images/welcome.jpeg) no-repeat center;
   background-size: cover;
   width: 860px;
   height: 180px;
@@ -112,26 +112,26 @@ ol li
   border: 10px solid #DDD;} /*border color - light grey: DDD*/
 
 #banner_help
-{ 
-  background: transparent url(../images/help.png) no-repeat center; 
+{
+  background: transparent url(../images/help.png) no-repeat center;
   background-size: cover;
 }
 
 #banner_calendar
-{ 
-  background: transparent url(../images/calendar.jpg) no-repeat center; 
+{
+  background: transparent url(../images/calendar.jpg) no-repeat center;
   background-size: cover;
 }
 
 #banner_assignments
 {
-  background: transparent url(../images/assignments.jpg) no-repeat center; 
+  background: transparent url(../images/assignments.jpg) no-repeat center;
   background-size: cover;
 }
 
 #banner_resources
-{ 
-  background: transparent url(../images/resources.png) no-repeat center; 
+{
+  background: transparent url(../images/resources.png) no-repeat center;
   background-size: cover;
 }
 
@@ -154,7 +154,7 @@ ol li
 
 #logo_text h1, #logo_text h1 a, #logo_text h1 a:hover /*website title, CompSci 94. Color gets overwritten below*/
 { padding: 22px 0 0 0;
-  color: #FFF; 
+  color: #FFF;
   letter-spacing: 0.1em;
   text-decoration: none;}
 
