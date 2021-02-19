@@ -111,29 +111,24 @@ ol li
   margin-bottom: 20px;
   border: 10px solid #DDD;} /*border color - light grey: DDD*/
 
-#banner_help
+#banner_resume
 {
-  background: transparent url(../images/help.png) no-repeat center;
+  background: transparent url(../images/resume.png) no-repeat center;
   background-size: cover;
 }
 
-#banner_calendar
+#banner_projects
 {
-  background: transparent url(../images/calendar.jpg) no-repeat center;
+  background: transparent url(../images/projectsBanner.png) no-repeat center;
   background-size: cover;
 }
 
-#banner_assignments
+#banner_porfolio
 {
-  background: transparent url(../images/assignments.jpg) no-repeat center;
+  background: transparent url(../images/porfolio.png) no-repeat center;
   background-size: cover;
 }
 
-#banner_resources
-{
-  background: transparent url(../images/resources.png) no-repeat center;
-  background-size: cover;
-}
 
 #logo
 { width: 880px;
