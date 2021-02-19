@@ -102,7 +102,7 @@ ol li
 { background: #323534 url(back.png) repeat-x;
   height: 177px;}
 
-#banner_index, #banner_help, #banner_calendar, #banner_assignments, #banner_resources
+#banner_index, #banner_resume, #banner_projects, #banner_porfolio
 {
   background: transparent url(../images/welcome.png) no-repeat center;
   background-size: cover;
